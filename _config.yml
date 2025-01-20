@@ -1,3 +1,5 @@
 title: "Demo Offline"
 description: "This demo is currently offline because my Azure budget ran out. You can still check out the blog posts and codebase!"
-theme: hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
